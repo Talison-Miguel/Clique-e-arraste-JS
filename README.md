@@ -56,7 +56,7 @@ Clique e arraste feito com javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Navegaco-de-Menu-Suspenso.git
+  ❯ git clone https://github.com/Talison-Miguel/Clique-e-arraste-JS.git
 ```
 
 ---
